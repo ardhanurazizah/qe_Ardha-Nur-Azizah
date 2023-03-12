@@ -1,0 +1,6 @@
+# Rangkuman Materi Object Oriented Programming
+
+Berikut ini rangkuman materi yang telah dipelajari sebelumnya :
+* Object Oriented Programming atau OOP adalah suatu metode pemrograman yang berorientasi pada objek. Di dalam sebuah OOP terdapat object, class, method, atribute, polymorphism, abstraction, encapsulation, dan inheritance.
+* Class merupakan blueprint dari sebuah object. Contoh dari class yaitu sebuah program memiliki class motor, pada sebuah class tersebut terdapat beberapa atribut yang meliputi mesin, roda, lampu, dan lain-lain. Object sendiri terdiri dari declaration, instantion, dan initialization. Di dalam sebuah class juga terdapat method yang dapat berupa variabel dan access modifier (public, default, private, protected).
+* Inheritance merupakan proses pewarisan data dan method dari suatu class yang telah ada kepada suatu class yang baru. Contoh sederhanyanya ada sebuah class motor, nah class tersebut dapat di bagi lagi menjadi motor matic, motor moge, ataupun motor manual.
