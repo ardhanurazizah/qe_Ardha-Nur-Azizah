@@ -1,0 +1,5 @@
+# Rangkuman Materi Mobile Testing with Serenity
+
+Berikut ini rangkuman materi yang telah dipelajari sebelumnya :
+* Mobile Testing adalah proses aplikasi mobile yang di uji kualitas dan eksistensinya. Pengujiannya dilakukan pada hardware dan software. Pada hardware termasuk kamera, prosesor, memori internal, bluetooth, ukuran layar, resolusi, dll. Sedangkan software yang telah dikembangkan akan di uji secara mendetail dan teliti. Aplikasi mobile dibagi menjadi 3 yaitu, web, nativ, dan hybrid. 
+* Appium adalah mobile web, nativ, dan hybrid software automation test tools, appium juga open source. Bisa menggunakan IOS dan Android. Appium juga dibangun dalam filosofi penting seperti tidak perlu compile aplikasi ketika menjalankan automation, tidak terpaku pada spesifik bahasa pemrograman dan open source. Appium juga membantu regretion test lebih mudah, mendukung multiple platform, dan serta dapat menggunakan testing framwork apapun. Kita dapat melakukan testing tanpa menggunakan source code. Appium adalah server http
