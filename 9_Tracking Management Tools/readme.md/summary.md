@@ -2,6 +2,20 @@
 
 Berikut ini rangkuman materi yang telah dipelajari sebelumnya :
 
-* Tracking management tools merupakan sebuah software yang digunakan untuk mengelola suatu proyek yang sedang dijalankan agar berjalan dengan efektif dan efisien
+* Tracking Management Tools adalah alat-alat yang digunakan untuk melacak dan mengelola proyek atau tugas secara efisien. Mereka membantu tim dalam mengatur jadwal, mengawasi kemajuan, mengelola tugas, dan memastikan keterlibatan yang efektif dari anggota tim. Tracking management tools juga sebuah software yang digunakan untuk mengelola suatu proyek yang sedang dijalankan agar berjalan dengan efektif dan efisien
 * Trancking management tools biasanya berisi tentang pengelompokkan tugas-tugas atau to do yang akan di lakukan kedepannya. Dimana nantinya pengelompokkan tersebut dapat mempermudah tim dalam pengembangan proyek
 * Salah satu tools yang banyak digunakan yaitu Jira. Tools tersebut digunakan untuk pelacakan bug, pelacakan issue, dan management project
+* Tracking Management Tools menawarkan berbagai fitur yang membantu dalam mengelola proyek, termasuk:
+    * Penjadwalan dan Pengelolaan Tugas: Tools ini memungkinkan pengguna untuk membuat jadwal tugas, mengatur tenggat waktu, dan melacak kemajuan tugas secara real-time. Mereka juga dapat mengirim notifikasi dan pengingat kepada anggota tim tentang tugas yang harus diselesaikan.
+    * Kolaborasi Tim: Alat-alat ini memfasilitasi kolaborasi antar anggota tim dengan menyediakan ruang kerja bersama, komunikasi tim, dan kemampuan untuk berbagi file dan dokumen terkait proyek.
+    * Pemantauan Kemajuan: Tools ini menawarkan pemantauan dan pelaporan yang akurat tentang kemajuan proyek. Mereka memungkinkan pemantauan real-time, visualisasi data, dan grafik yang membantu dalam menilai performa proyek.
+    * Manajemen Sumber Daya: Alat-alat ini membantu dalam mengelola sumber daya proyek, seperti alokasi tenaga kerja, perencanaan anggaran, dan pengaturan prioritas.
+    * Analisis dan Pelaporan: Tracking Management Tools menyediakan fitur analisis dan pelaporan yang membantu dalam mengevaluasi kinerja proyek, mengidentifikasi tren, dan mengambil tindakan yang diperlukan untuk meningkatkan efisiensi.
+* Beberapa contoh populer dari Tracking Management Tools termasuk Jira, Trello, Asana, Monday.com, Microsoft Project, dan Wrike. Setiap alat memiliki fitur dan keunggulan yang berbeda, sehingga memungkinkan tim untuk memilih alat yang sesuai dengan kebutuhan dan preferensi mereka.Beberapa contoh populer dari Tracking Management Tools termasuk Jira, Trello, Asana, Monday.com, Microsoft Project, dan Wrike. Setiap alat memiliki fitur dan keunggulan yang berbeda, sehingga memungkinkan tim untuk memilih alat yang sesuai dengan kebutuhan dan preferensi mereka.
+* Penggunaan Tracking Management Tools memiliki beberapa manfaat, antara lain:
+    * Peningkatan Produktivitas: Alat-alat ini membantu dalam mengoptimalkan efisiensi tim, mengurangi kesalahan, dan meningkatkan kolaborasi, yang pada gilirannya meningkatkan produktivitas keseluruhan.
+    * Pemantauan yang Lebih Baik: Dengan alat-alat ini, tim dapat memantau kemajuan proyek secara real-time dan mengidentifikasi masalah atau hambatan dengan cepat. Hal ini memungkinkan untuk mengambil tindakan yang diperlukan secara proaktif.
+    * Koordinasi Tim yang Lebih Baik: Alat-alat ini memfasilitasi komunikasi dan kolaborasi yang efektif antara anggota tim, sehingga memungkinkan koordinasi yang lebih baik dan mengurangi kesalahpahaman.
+    * Pengambilan Keputusan yang Informasi: Tracking Management Tools menyediakan data dan laporan yang relevan, yang membantu dalam pengambilan keputusan yang lebih baik dan informasi.
+    * Peningkatan Transparansi: Alat-alat ini memungkinkan semua anggota tim untuk melihat kemajuan proyek, tanggung jawab, dan tenggat waktu. Ini menciptakan transparansi yang lebih baik dan memfasilitasi akuntabilitas.
+    * Penggunaan Tracking Management Tools dapat memberikan manfaat besar bagi tim dalam mengelola dan melacak proyek secara efektif. Mereka membantu meningkatkan produktivitas, koordinasi tim, dan pemantauan proyek yang efisien. Dengan menggunakan alat yang tepat dan memanfaatkan fitur-fitur yang tersedia, tim dapat mencapai hasil yang lebih baik dan mengelola proyek dengan lebih baik.
